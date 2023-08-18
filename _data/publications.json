@@ -141,8 +141,9 @@
 	},
 	{
 		"id": "http://zotero.org/users/local/SxVMVijK/items/E2WVZPKD",
-		"type": "article-journal",
+		"type": "chapter-book",
 		"abstract": "Oxidative destruction of organic contaminants of emerging concern (CECs) by photochemical methods has been a topic of high interest in recent years. In order to",
+		"container-title": "Royal Society of Chemistry (Book Chapter)",
 		"DOI": "10.1039/9781839167355",
 		"language": "en",
 		"source": "books.rsc.org",
