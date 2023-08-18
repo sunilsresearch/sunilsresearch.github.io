@@ -8,10 +8,10 @@
           </clipPath>
         </defs>
       </svg> {% if page.url != '/' %} <a href="../" target="_self">
-        <img class="headerIcon" src="{{ site.app_icon | relative_url }}">
-      </a> {% else %} <img class="headerIcon" src="{{ site.app_icon | relative_url }}"> {% endif %} <div class="divider"></div>
+        <img class="headerIcon" src="{{ site.profile_image | relative_url }}">
+      </a> {% else %} <img class="headerIcon" src="{{ site.profile_image | relative_url }}"> {% endif %} <div class="divider"></div>
     </div>
-    <p class="headerName"><a href="{{ site.github.url }}" target="_self">{{ site.app_name }}</a></p>
+    <p class="headerName"><a href="{{ site.github.url }}" target="_self">{{ site.page_title }}</a></p>
   </div>
   <nav class="scroll">
     <ul> {% for page in site.pages %} {% if page.include_in_header == true %} <li>

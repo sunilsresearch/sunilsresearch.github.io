@@ -8,7 +8,7 @@ include_in_header: true
     tab1 { padding-left: 4em; }
 </style>
 
-# Research
+<h1>{{page.title}}</h1>
 
 <p style="text-align: justify;"><tab1><strong>Dr. Sunil</strong> is presently (from August 2023) associated with the research group of <a href="https://scholar.google.com/citations?user=u7n2nsIAAAAJ&hl=en" target="_blank">Prof. Aki Sebastian Ruhl</a> at the German Environment Agency (UBA, Berlin, Germany, as a Scientific Assistant. He received his Bachelor (Chemistry) and Master (Pharmaceutical chemistry) degrees from <a href="https://www.mgu.ac.in" target="_blank">Mahatma Gandhi University</a>, Kottayam in 2006 and 2008 respectively. He joined <a href="http://www.indianspices.com" target="_blank">Spices Board of India</a>, Kochi, Kerala, as a trainee analyst immediately after receiving the master degree. During this tenure in spices board, he was involved in the analysis of various spices and spice products for different quality parameters. This work involves the use of highly sophisticated analytical instrumentation techniques, such as the High-Performance Liquid Chromatography (HPLC), Gas Chromatography (GC), Atomic Absorption Spectroscopy (AAS), Tandem Mass Spectrometry (LC-MS/MS), etc. He joined as a project fellow (funded by UGC-DAE CSR, Kolkata) in the group of <a href="http://www.ctamgu.in/home/" target="_blank">Prof. C. T. Aravindakumar</a> (School of Environmental Sciences, Mahatma Gandhi University, Kottayam) after a national level interview (2010). Later (2011), he became a Ph.D. student in the same institute.</tab1></p>
 

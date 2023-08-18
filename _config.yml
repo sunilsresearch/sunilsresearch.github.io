@@ -1,16 +1,12 @@
 # Title
 page_title                                : Dr. Sunil Paul Mathew Menacherry
-app_icon                                  : assets/appicon.png
-app_name                                  : Dr. Sunil Paul Mathew Menacherry
-
-enable_smart_app_banner                   : false
+profile_image				  : assets/image.png
 
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
