@@ -1,0 +1,1422 @@
+[
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/66LLBBIB",
+		"type": "article-journal",
+		"abstract": "The dissipation kinetics and half-lives of selected organic micropollutants, including pharmaceuticals and others, were systematically investigated and compared among different soil types. While some pollutants (e.g., atorvastatin, valsartan, and bisphenol S) disappeared rapidly in all the tested soils, many of them (e.g., telmisartan, memantine, venlafaxine, and azithromycin) remained persistent. Irrespective of the soil characteristics, venlafaxine showed the lowest dissipation kinetics and the longest half-lives (250 to approximately 500 days) among the stable compounds. The highest first and second-order kinetics were, however, recorded for valsartan (k1; 0.262 day−1) and atorvastatin (k2; 33.8 g μg−1 day−1) respectively. Nevertheless, more than 90% (i.e., DT90) of all the rapidly dissipated compounds (i.e., atorvastatin, bisphenol S, and valsartan) disappeared from the tested soils within a short timescale (i.e., 5–36 days). Dissipation of pollutants that are more susceptible to microbial degradation (e.g., atorvastatin, bisphenol S, and valsartan) seems to be slower for soils possessing the lowest microbial biomass C (Cmic) and total phospholipid fatty acids (PLFAtotal), which also found statistically significant. Our results revealing the persistence of several organic pollutants in agricultural soils, which might impact the quality of these soils, the groundwater, and eventually on the related biota, is of high environmental significance.",
+		"container-title": "Journal of Hazardous Materials",
+		"DOI": "10.1016/j.jhazmat.2023.132143",
+		"ISSN": "0304-3894",
+		"journalAbbreviation": "Journal of Hazardous Materials",
+		"page": "132143",
+		"source": "ScienceDirect",
+		"title": "Dissipation of twelve organic micropollutants in three different soils: Effect of soil characteristics and microbial composition",
+		"title-short": "Dissipation of twelve organic micropollutants in three different soils",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0304389423014267",
+		"volume": "459",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Kodešová",
+				"given": "Radka"
+			},
+			{
+				"family": "Fedorova",
+				"given": "Ganna"
+			},
+			{
+				"family": "Sadchenko",
+				"given": "Alina"
+			},
+			{
+				"family": "Kočárek",
+				"given": "Martin"
+			},
+			{
+				"family": "Klement",
+				"given": "Aleš"
+			},
+			{
+				"family": "Fér",
+				"given": "Miroslav"
+			},
+			{
+				"family": "Nikodem",
+				"given": "Antonín"
+			},
+			{
+				"family": "Chroňáková",
+				"given": "Alica"
+			},
+			{
+				"family": "Grabic",
+				"given": "Roman"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/2CM5GU3F",
+		"type": "article-journal",
+		"abstract": "The accumulation of six pharmaceuticals of different therapeutic uses has been thoroughly investigated and compared between onion, spinach, and radish plants grown in six soil types. While neutral molecules (e.g., carbamazepine (CAR) and some of its metabolites) were efficiently accumulated and easily translocated to the plant leaves (onion > radish > spinach), the same for ionic (both anionic and cationic) molecules seems to be minor to moderate. The maximum accumulation of CAR crosses 38,000 (onion), 42,000 (radish), and 7000 (spinach) ng g−1 (dry weight) respectively, in which the most majority of them happened within the plant leaves. Among the metabolites, the accumulation of carbamazepine 10,11-epoxide (EPC — a primary CAR metabolite) was approximately 19,000 (onion), 7000 (radish), and 6000 (spinach) ng g−1 (dry weight) respectively. This trend was considerably similar even when all these pharmaceuticals applied together. The accumulation of most other molecules (e.g., citalopram, clindamycin, clindamycin sulfoxide, fexofenadine, irbesartan, and sulfamethoxazole) was restricted to plant roots, except for certain cases (e.g., clindamycin and clindamycin sulfoxide in onion leaves). Our results clearly demonstrated the potential role of this accumulation process on the entrance of pharmaceuticals/metabolites into the food chain, which eventually becomes a threat to associated living biota.",
+		"container-title": "Environmental Science and Pollution Research",
+		"DOI": "10.1007/s11356-023-26102-5",
+		"ISSN": "1614-7499",
+		"issue": "18",
+		"journalAbbreviation": "Environ Sci Pollut Res",
+		"language": "en",
+		"page": "54160-54176",
+		"source": "Springer Link",
+		"title": "Selective accumulation of pharmaceutical residues from 6 different soils by plants: a comparative study on onion, radish, and spinach",
+		"title-short": "Selective accumulation of pharmaceutical residues from 6 different soils by plants",
+		"URL": "https://doi.org/10.1007/s11356-023-26102-5",
+		"volume": "30",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Kodešová",
+				"given": "Radka"
+			},
+			{
+				"family": "Švecová",
+				"given": "Helena"
+			},
+			{
+				"family": "Klement",
+				"given": "Aleš"
+			},
+			{
+				"family": "Fér",
+				"given": "Miroslav"
+			},
+			{
+				"family": "Nikodem",
+				"given": "Antonín"
+			},
+			{
+				"family": "Grabic",
+				"given": "Roman"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					4,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/E2WVZPKD",
+		"type": "article-journal",
+		"abstract": "Oxidative destruction of organic contaminants of emerging concern (CECs) by photochemical methods has been a topic of high interest in recent years. In order to",
+		"DOI": "10.1039/9781839167355",
+		"language": "en",
+		"source": "books.rsc.org",
+		"title": "Transformation Mechanism of Organic CECs by Photochemical Oxidation Processes: Insights from Mass Spectrometry",
+		"title-short": "Transformation Mechanism of Organic CECs by Photochemical Oxidation Processes",
+		"URL": "https://books.rsc.org/books/edited-volume/2037/chapter/4656181/Transformation-Mechanism-of-Organic-CECs-by",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/SBHHSDS4",
+		"type": "article-journal",
+		"abstract": "Atmospheric aerosols, produced as a consequence of different anthropogenic and natural processes, impart significant control over the global energy budget, climate, and human–environmental health. Their size varies across the nano–micrometer scale. Based on their origin, they may be classified into primary or secondary aerosols. Biomass burning, incomplete combustion of fossil fuels, volcanic eruptions, and traffic-related and wind-driven suspensions contribute to primary aerosol emissions. In contrast, gas-to-particle conversion within the atmosphere leads to secondary particle production. The study of atmospheric aerosols is vital to the field of atmospheric research. The dynamic nature (highly variable concentration composition and size with space and time) of aerosols makes them difficult to investigate. Today, aerosol research involves the application of various spectrometric and spectroscopic techniques. The single-particle analysis of aerosols is yet a challenge. In this review, the merits and demerits of various offline and online techniques used for aerosol research are discussed in a nutshell. Mass spectrometric techniques fail in distinguishing certain species. However, Raman spectroscopy’s emergence for the compositional analysis of aerosols resolves most of the present characterization challenges. This review focuses on Raman spectroscopy applications, the merits of this technique, and its immense scope for the measurement of various types of aerosols and their properties. Surface-enhanced Raman spectroscopy (SERS) has an advantage over conventional micro-Raman spectroscopy (MRS). The review depicts the dominance of SERS, specifically in the context of the measurement of ambient atmospheric aerosols. This review discusses two important components, namely laboratory simulation and ambient aerosol studies.",
+		"container-title": "Atmosphere",
+		"DOI": "10.3390/atmos13111779",
+		"ISSN": "2073-4433",
+		"issue": "11",
+		"language": "en",
+		"license": "http://creativecommons.org/licenses/by/3.0/",
+		"note": "number: 11\npublisher: Multidisciplinary Digital Publishing Institute",
+		"page": "1779",
+		"source": "www.mdpi.com",
+		"title": "Single-Particle Analysis of Atmospheric Aerosols: Applications of Raman Spectroscopy",
+		"title-short": "Single-Particle Analysis of Atmospheric Aerosols",
+		"URL": "https://www.mdpi.com/2073-4433/13/11/1779",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Moorchilot",
+				"given": "Vishnu S."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/E7WAHUZD",
+		"type": "article-journal",
+		"abstract": "Elimination of organic contaminants of emerging concern (CECs) from precious environmental resources is an important process for reducing adverse effects to living species. Advanced oxidation processes (AOPs) have already been adopted by many researchers to detoxify several CECs. However, hydroxyl (OH) radical reaction, the primary degradation mechanism in most AOPs, with CECs might generate structurally (and possibly toxicologically) similar transformation products. In-depth mechanistic investigations are, therefore, required before adapting AOPs for real water purification purposes. Mass spectrometry (MS)-based transformation product studies, either alone or in combination with a suitable chromatographic technique, has extensively been utilized to achieve this crucial information. In this report, we reviewed recent mass spectrometry-based investigations conducted to explore the degradation mechanism of CECs by various AOPs. The importance and advantages of conducting mass spectrometric studies along with any AOPs to eliminate CECs are thoroughly discussed. Further, the traditional (targeted) and newly emerged (non-targeted) MS approaches are briefly compared. The prime focus of this review is devoted to explain how the scientific community utilised the results obtained from the cutting-edge MS techniques, such as high-resolution mass spectrometry (HRMS), to explore the degradation mechanism of CECs. The MS-based mechanistic approaches, an extremely important, but under explored area related with the widely used advanced oxidation and related wastewater purification plants, discussed in this review might be utilized as a reference data for the implementation of AOPs into real environment uses.",
+		"container-title": "Journal of Environmental Chemical Engineering",
+		"DOI": "10.1016/j.jece.2022.108155",
+		"ISSN": "2213-3437",
+		"issue": "4",
+		"journalAbbreviation": "Journal of Environmental Chemical Engineering",
+		"page": "108155",
+		"source": "ScienceDirect",
+		"title": "Critical review on the role of mass spectrometry in the AOP based degradation of contaminants of emerging concern (CECs) in water",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2213343722010284",
+		"volume": "10",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/7R3SEBA8",
+		"type": "article-journal",
+		"abstract": "Elimination of polycyclic aromatic hydrocarbons (PAHs) from aquatic environment is extremely important, as they are identified pollutants. The oxidative degradation of two model PAHs, namely 3-hydroxy-2-naphthoic acid (3HNA) and 6-hydroxy-2-naphthoic acid (6HNA), collectively represented as HNAs in this report, were investigated by utilizing a combined approach of pulse radiolysis, theoretical studies and high-resolution mass spectrometry (HRMS). Hydroxylated adduct radicals of HNAs (3HNA–λmax; 340 nm; k2 = [1.09 ± 0.07] × 1010 dm3 mol−1 s−1, 6HNA–λmax; 350 nm; k2 = [9.43 ± 0.05] × 109 dm3 mol−1 s−1) were recognized as the immediate intermediates upon their reaction with hydroxyl radical (•OH). While theoretical calculations revealed the contributions from C1 and C4 adducts into the experimentally observed spectrum of 3HNA, the C5 adduct accounted as the major contributor for 6HNA. Investigations using specific oxidants, such as sulfate (SO4•−) and oxide (O•−) radicals, helped to exclude the contributions from other minor pathways (e.g., one-electron oxidation and hydrogen abstraction). Further, HRMS studies revealed the existence of mono- and multi-hydroxylated derivatives of HNAs as well as many other oxidation products including quinone-like and ring-opened structures. The in-depth mechanistic aspects, including the kinetic and product profile, furnished in this report provide detailed insights in to the oxidation chemistry of highly toxic PAHs, such as the HNAs, in the aquatic environment.",
+		"container-title": "Journal of Physical Organic Chemistry",
+		"DOI": "10.1002/poc.4416",
+		"ISSN": "1099-1395",
+		"issue": "12",
+		"language": "en",
+		"license": "© 2022 John Wiley & Sons, Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/poc.4416",
+		"page": "e4416",
+		"source": "Wiley Online Library",
+		"title": "Exploring the oxidation chemistry of hydroxy naphthoic acid: An experimental and theoretical study",
+		"title-short": "Exploring the oxidation chemistry of hydroxy naphthoic acid",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/poc.4416",
+		"volume": "35",
+		"author": [
+			{
+				"family": "Naduvilpurakkal",
+				"given": "Shibin B."
+			},
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Nair",
+				"given": "Sreekanth R."
+			},
+			{
+				"family": "Nguyen",
+				"given": "Thao P."
+			},
+			{
+				"family": "Nair",
+				"given": "Pramod G."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					18
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/UPPHU7V3",
+		"type": "article-journal",
+		"abstract": "The elimination of organic contaminants from natural resources is extremely important to ensure their (re-)usability. In this report, the degradation of a model pharmaceutical compound, theophylline, is compared between natural and laboratory-controlled environments. While the concentration of H2O2 variably affected the degradation efficiency (approximately from 8 to 20 min for complete degradation) in the photo-irradiation experiments, the inorganic compounds (NaNO3, KH2PO4 and ZnSO4) present in the medium seemed to affect the degradation by scavenging hydroxyl radicals (•OH). The end-product studies using high-resolution mass spectrometry (HRMS) ruled out the involvement of secondary radicals in the degradation mechanism. The quantitative calculation with the help of authentic standards pointed out the predominant role of hydroxylation pathways, especially in the initial stages. Although a noticeable decline in the degradation efficiency was observed in river water samples (complete degradation after 25 min with an approximately 20% total organic carbon (TOC) removal), appreciable TOC removal (70%) was eventually achieved after prolonged irradiation (1 h) and in the presence of additional H2O2 (5 times), revealing the potential of our technique. The results furnished in this report could be considered as a preliminary step for the construction of •OH-based wastewater treatment methodologies for the remediation of toxic pollutants from the real environment.",
+		"container-title": "Atmosphere",
+		"DOI": "10.3390/atmos13050835",
+		"ISSN": "2073-4433",
+		"issue": "5",
+		"language": "en",
+		"license": "http://creativecommons.org/licenses/by/3.0/",
+		"note": "number: 5\npublisher: Multidisciplinary Digital Publishing Institute",
+		"page": "835",
+		"source": "www.mdpi.com",
+		"title": "Oxidative Degradation of Pharmaceutical Waste, Theophylline, from Natural Environment",
+		"URL": "https://www.mdpi.com/2073-4433/13/5/835",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/KIXE4D9S",
+		"type": "article-journal",
+		"abstract": "Hydroxyl radical induced oxidation of carbaryl has been studied using steady state photolysis followed by high-resolution mass spectrometry (LC-Q-TOF-MS), pulse radiolysis, and theoretical (DFT) calculations. The reaction of ●OH with carbaryl resulted in a number of hydroxylated adduct radicals (λmax - 330 nm and 390 nm; k2 - 1.2 × 1010 dm3 mol-1 s-1). The DFT calculations and results obtained from LC-Q-TOF-MS analysis shows the possible addition of ●OH at C1 (energetically most stable) and C7 positions of carbaryl leading to the generation of resonance stabilized hydroxycyclohexadienyl-type radicals as the immediate intermediates, which eventually converted into naphthol and a hydroxylated naphthols. LC-Q-TOF-MS results also revealed the formation of other hydroxylated derivatives and naphthoquinones that are most likely originated from the consecutive ●OH attack on the initially formed products. Naphthoquinones are found to undergo ring opening and the corresponding products are identified. The reaction of SO4●- with carbaryl, on the other hand, results the radical cation of parent molecule (λmax - 320 nm and 390 nm) which exhibits reasonable stability in the pulse radiolysis timescale. Total organic carbon (TOC) analysis after H2O2/UV photolysis revealed that nearly 70% of the organic content is mineralized after 35 min of irradiation, which demonstrates the potential application of oxidative methods towards the degradation of carbaryl.",
+		"container-title": "Chemical Physics",
+		"DOI": "10.1016/j.chemphys.2021.111427",
+		"ISSN": "0301-0104",
+		"journalAbbreviation": "Chemical Physics",
+		"page": "111427",
+		"source": "ScienceDirect",
+		"title": "Oxidation reactions of carbaryl in aqueous solutions",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0301010421003384",
+		"volume": "554",
+		"author": [
+			{
+				"family": "Nair",
+				"given": "Sreekanth R."
+			},
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Renjith",
+				"given": "S."
+			},
+			{
+				"family": "Manojkumar",
+				"given": "T. K."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/XDYP8YBV",
+		"type": "article-journal",
+		"abstract": "Dissipation of pharmaceutical compounds entered into the natural environment is an important process minimizing the adverse effects on the living organisms. The aim of the present study is to determine the effects of varying initial concentrations on the stability and degradation of three different pharmaceuticals in a chosen soil.",
+		"container-title": "Journal of Soils and Sediments",
+		"DOI": "10.1007/s11368-021-03095-7",
+		"ISSN": "1614-7480",
+		"issue": "2",
+		"journalAbbreviation": "J Soils Sediments",
+		"language": "en",
+		"page": "522-535",
+		"source": "Springer Link",
+		"title": "The impact of initial concentration of selected pharmaceuticals on their early stage of dissipation in soils",
+		"URL": "https://doi.org/10.1007/s11368-021-03095-7",
+		"volume": "22",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Kočárek",
+				"given": "Martin"
+			},
+			{
+				"family": "Kacerova",
+				"given": "Tereza"
+			},
+			{
+				"family": "Kotíková",
+				"given": "Zora"
+			},
+			{
+				"family": "Kačer",
+				"given": "Petr"
+			},
+			{
+				"family": "Kodešová",
+				"given": "Radka"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/EFC3Z9ZY",
+		"type": "article-journal",
+		"abstract": "Degradation of benzenesulfonic acid (BSA), the simplest aromatic sulfonic acid with extreme industrial importantance, by sonochemically generated hydroxyl radical (OH) have been thoroughly investigated. A reasonable reduction (∼50%) in the total organic carbon (TOC) was achieved only after prolonged irradiation (∼275 min, 350 kHz) of ultrasound, although a short irradiation of less than an hour is enough to degrade significant amount of BSA. The degradation efficiency of ultrasound has been reduced in lower and extremely higher frequencies, and upon increasing the pH. An irregular, but continuous, release of sulfate ions was also observed. Further, the release of protons upon the oxidation of BSA consistently reduces the experimental pH to nearly 2. High resolution mass spectrometric (HRMS) analyses reveals the formation of a number of aromatic intermediates, including three mono (Ia-c) and two di (IIa&b) hydroxylated BSA derivatives as the key products in the initial stages of the reaction. Pulse radiolysis studies revealed the generation of hydroxycyclohexadienyl–type radicals, characterized by absorption bands at 320 nm (k2 = (7.16 ± 0.04) × 109 M−1 s−1) and 380 nm, as the immediate intermediates of the reaction. The mechanism(s) leading to the degradation of BSA under sonolytic irradiation conditions along with the effect of various factors, such as the ultrasound frequency and reaction pH, have been explained in detail. The valuable mechanistic aspects obtained from our pulse radiolysis and HRMS studies are essential for the proper implementation of sonochemical techniques into real water purification process and, thus, receives extreme environmental relevance.",
+		"container-title": "Chemosphere",
+		"DOI": "10.1016/j.chemosphere.2020.126485",
+		"ISSN": "0045-6535",
+		"journalAbbreviation": "Chemosphere",
+		"page": "126485",
+		"source": "ScienceDirect",
+		"title": "Sonochemical degradation of benzenesulfonic acid in aqueous medium",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0045653520306780",
+		"volume": "252",
+		"author": [
+			{
+				"family": "Thomas",
+				"given": "Shoniya"
+			},
+			{
+				"family": "Rayaroth",
+				"given": "Manoj P."
+			},
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/XK9UCGAJ",
+		"type": "article-journal",
+		"abstract": "The dark dissolution behavior of plattnerite (ß-PbO2) was investigated in frozen solutions containing halide ions and compared with those in aqueous solution. The amount of dissolved lead in the frozen solutions varied depending on the solution pH and the kind and concentration of halide ions. The presence of bromide and iodide ions enhanced the dissolution of lead in the aqueous phase, whereas the effect of chloride was insignificant. Compared with the aqueous phase dissolution, ß-PbO2 dissolution in the frozen solution was slightly enhanced in the presence of bromide but suppressed in the presence of iodide. Iodide ions seemed to be relatively more trapped in the bulk ice (ice-crystal lattice) than bromide ions, which might be related to the suppressed dissolution of lead oxide in the presence of iodide. The co-existence of bromide (or iodide) and chloride ions in the frozen solution enhanced the dissolution of lead, which seems to be enabled by an additional reaction pathway involving the formation of mixed halide radicals, whereas such kind of synergistic enhancements were not observed in aqueous solution. The halide-induced lead oxide dissolution in frozen solutions can be related to the behavior of lead ions found in various media of frozen environments.",
+		"container-title": "Journal of Hazardous Materials",
+		"DOI": "10.1016/j.jhazmat.2019.121298",
+		"ISSN": "0304-3894",
+		"journalAbbreviation": "Journal of Hazardous Materials",
+		"page": "121298",
+		"source": "ScienceDirect",
+		"title": "Halide-induced dissolution of lead(IV) oxide in frozen solution",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S030438941931252X",
+		"volume": "384",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Min",
+				"given": "Dae Wi"
+			},
+			{
+				"family": "Jeong",
+				"given": "Daun"
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			},
+			{
+				"family": "Lee",
+				"given": "Woojin"
+			},
+			{
+				"family": "Choi",
+				"given": "Wonyong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					15
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/JZNR56DR",
+		"type": "article-journal",
+		"abstract": "The bioavailable iron is essential for all living organisms, and the dissolution of iron oxide contained in dust and soil is one of the major sources of bioavailable iron in nature. Iodine in the polar atmosphere is related to ozone depletion, mercury oxidation, and cloud condensation nuclei formation. Here we show that the chemical reaction between iron oxides and iodide (I–) is markedly accelerated to produce bioavailable iron (Fe(II)aq) and tri-iodide (I3–: evaporable in the form of I2) in frozen solution (both with and without light irradiation), while it is negligible in aqueous phase. The freeze-enhanced production of Fe(II)aq and tri-iodide is ascribed to the freeze concentration of iron oxides, iodides, and protons in the ice grain boundaries. The outdoor experiments carried out in midlatitude during a winter day (Pohang, Korea: 36°0′ N, 129°19′ E) and in an Antarctic environment (King George Island: 62°13′ S 58°47′ W) also showed the enhanced generation of Fe(II)aq and tri-iodide in ice. This study proposes a previously unknown abiotic mechanism and source of bioavailable iron and active iodine species in the polar environment. The pulse input of bioavailable iron and reactive iodine when ice melts may influence the oceanic primary production and CCN formation.",
+		"container-title": "Environmental Science & Technology",
+		"DOI": "10.1021/acs.est.8b06659",
+		"ISSN": "0013-936X",
+		"issue": "13",
+		"journalAbbreviation": "Environ. Sci. Technol.",
+		"note": "publisher: American Chemical Society",
+		"page": "7355-7362",
+		"source": "ACS Publications",
+		"title": "Simultaneous and Synergic Production of Bioavailable Iron and Reactive Iodine Species in Ice",
+		"URL": "https://doi.org/10.1021/acs.est.8b06659",
+		"volume": "53",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Kitae"
+			},
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Kim",
+				"given": "Jungwon"
+			},
+			{
+				"family": "Chung",
+				"given": "Hyun Young"
+			},
+			{
+				"family": "Jeong",
+				"given": "Daun"
+			},
+			{
+				"family": "Saiz-Lopez",
+				"given": "Alfonso"
+			},
+			{
+				"family": "Choi",
+				"given": "Wonyong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					7,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/WT5PWT83",
+		"type": "paper-conference",
+		"abstract": "Biomedical optical systems and models can be easily validated by the use of tissue-simulating phantoms. They can consist of water-based turbid media which often include inks (India ink and molecular dyes) as absorbers. Optical stability of commonly exploited inks under the influence of light, pH changes and the addition of TiO<sub>2</sub> and surfactant, was studied. We found that the exposure to ultraviolet and visible light can crucially affect the absorption properties of molecular dyes. On average, absorption peaks decreased by 47.3% in 150 exposure hours. Furthermore, dilution can affect ink’s pH and by that, its decay rate under light exposure. When TiO<sub>2</sub> was added to the phantoms, all molecular dyes decayed rapidly. Photocatalytic nature of TiO<sub>2</sub> can be partially avoided by selecting TiO<sub>2</sub> with surface and crystal structure modification. Surfactant, normally present in the phantoms with polystyrene spheres, can cause absorption peak shifts up to 20 nm and amplitude changes of 29.6%. Therefore, it is crucial to test the optical stability of inks in the presented manner before their exploitation in water-based phantoms.",
+		"container-title": "Design and Quality for Biomedical Technologies XII",
+		"DOI": "10.1117/12.2506977",
+		"event-title": "Design and Quality for Biomedical Technologies XII",
+		"page": "56-65",
+		"publisher": "SPIE",
+		"source": "www.spiedigitallibrary.org",
+		"title": "Poor optical stability of molecular dyes when used as absorbers in water-based tissue-simulating phantoms",
+		"URL": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10870/108700N/Poor-optical-stability-of-molecular-dyes-when-used-as-absorbers/10.1117/12.2506977.full",
+		"volume": "10870",
+		"author": [
+			{
+				"family": "Cugmas",
+				"given": "Blaž"
+			},
+			{
+				"family": "Naglič",
+				"given": "Peter"
+			},
+			{
+				"family": "Menachery",
+				"given": "Sunil Paul Matthew"
+			},
+			{
+				"family": "Pernuš",
+				"given": "Franjo"
+			},
+			{
+				"family": "Likar",
+				"given": "Boštjan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2,
+					27
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/NV3T2WQS",
+		"type": "article-journal",
+		"abstract": "The freezing-enhanced dissolution of iron oxides by various ligands has been recently proposed as a new mechanism that may influence the supply of bioavailable iron in frozen environments. The ligand-induced dissolution of iron oxides is sensitively affected by the kind and concentration of ligands, pH, and kind of iron oxides. While most ligands are thought to be freeze-concentrated in the ice grain boundary region along with iron oxides to enhance the iron dissolution, this study found that some ligands, such as ascorbic acid, suppress the iron dissolution in frozen solution relative to that in aqueous solution. Such ligands are proposed to be preferentially incorporated in the ice lattice bulk and not freeze-concentrated in the liquid-like grain boundary. The experimental analysis estimated that the ionized forms of ligands (e.g., iodide ions) are hardly present in the ice bulk region (<3%) and enhance the iron dissolution in frozen solution (relative to that in aqueous solution), whereas some neutral ligands (e.g., undissociated ascorbic acid) are significantly trapped in the ice bulk (>50%) and suppress the iron dissolution compared to the aqueous counterpart. The present results reveal that the ligand-induced dissolution of iron oxide in frozen solution is not always enhanced relative to aqueous solution but depends upon the kind of ligand and experimental conditions.",
+		"container-title": "Environmental Science & Technology",
+		"DOI": "10.1021/acs.est.8b04484",
+		"ISSN": "0013-936X",
+		"issue": "23",
+		"journalAbbreviation": "Environ. Sci. Technol.",
+		"note": "publisher: American Chemical Society",
+		"page": "13766-13773",
+		"source": "ACS Publications",
+		"title": "Ligand-Specific Dissolution of Iron Oxides in Frozen Solutions",
+		"URL": "https://doi.org/10.1021/acs.est.8b04484",
+		"volume": "52",
+		"author": [
+			{
+				"family": "Menacherry",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Kim",
+				"given": "Kitae"
+			},
+			{
+				"family": "Lee",
+				"given": "Woojin"
+			},
+			{
+				"family": "Choi",
+				"given": "Cheol Ho"
+			},
+			{
+				"family": "Choi",
+				"given": "Wonyong"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					12,
+					4
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/HQIMIZB4",
+		"type": "article-journal",
+		"abstract": "The mechanistic aspects of hydroxyl (OH) and sulfate radical (SO4−) induced oxidation of diphenylmethanol (DPM) in aqueous medium has been explored using a combined experimental and theoretical approach. OH initiates the generation of hydroxycyclohexadienyl-type radicals (i) upon reaction with DPM (λmax = 330 nm; k2 = (1.44 ± 0.08) × 1010dm3 mol−1 s−1). Time-dependent density functional theory (TDDFT) calculations revealed an ortho-hydroxylated adduct structure to radical i,which shows comparable absorbance characteristics (λmax = 322 nm). High resolution mass spectrometric (HRMS) studies reveal the existence of mono- and di-hydroxylated compounds of DPM and benzophenone as the main degradation products. Hydroxylated products werederived from the radical i by either a radical-radical disproportion or a bimolecular transformation felicitated by molecular oxygen. Benzophenone (III) is likely originated from the radical cation (iii), generated as a result of one electron oxidation of DPM by OH/SO4−, by deprotonation followed by electron and proton release.",
+		"container-title": "Chemical Physics",
+		"DOI": "10.1016/j.chemphys.2018.08.010",
+		"ISSN": "0301-0104",
+		"journalAbbreviation": "Chemical Physics",
+		"page": "201-208",
+		"source": "ScienceDirect",
+		"title": "Exploring the mechanism of diphenylmethanol oxidation: A combined experimental and theoretical approach",
+		"title-short": "Exploring the mechanism of diphenylmethanol oxidation",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0301010418306980",
+		"volume": "513",
+		"author": [
+			{
+				"family": "Menachery",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Nguyen",
+				"given": "Thao P."
+			},
+			{
+				"family": "Gopinathan",
+				"given": "Pramod"
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					9,
+					24
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/9LRBKIU9",
+		"type": "article-journal",
+		"abstract": "Degradation of a widely used antibiotic, the para-aminosalicylic acid (PAS), and mineralization of its aqueous solution was investigated by electro-Fenton process using Pt/carbon-felt and boron-doped diamond (BDD)/carbon-felt cells with applied currents in the range of 50–1000 mA. This process produces the highly oxidizing species, the hydroxyl radical (•OH), which is mainly responsible for the oxidative degradation of PAS. An absolute rate constant of 4.17 × 109 M−1 s−1 for the oxidation of PAS by ●OH was determined from the competition kinetics method. Degradation rate of PAS increased with current reaching an optimal value of 500 mA with complete disappearance of 0.1 mM PAS at 7 min using Pt/carbon-felt cell. The optimum degradation rate was reached at 300 mA for BDD/carbon-felt. The latter cell was found more efficient in total organic carbon (TOC) removal where a complete mineralization was achieved within 240 min. A multi-step mineralization process was observed with the formation of a number of aromatic intermediates, short-chain carboxylic acids, and inorganic ions. Eight aromatic intermediate products were identified using both LC-Q-ToF-MS and GC-MS techniques. These products were the result of hydroxylation of PAS followed by multiple additions of hydroxyl radicals to form polyhydroxylated derivatives. HPLC and GC/MS analyses demonstrated that extended oxidation of these intermediate products conducted to the formation of various short-chain carboxylic acids. Prolonged electrolysis resulted in a complete mineralization of PAS with the evolution of inorganic ions such as NO3− and NH4+. Based on the identified intermediates, carboxylic acids and inorganic ions, a plausible mineralization pathway is also deduced. The remarkably high degree of mineralization (100%) achieved by the present EF process highlights the potential application of this technique to the complete removal of salicylic acid-based pharmaceuticals from contaminated water.",
+		"container-title": "Environmental Science and Pollution Research",
+		"DOI": "10.1007/s11356-017-9309-6",
+		"ISSN": "1614-7499",
+		"issue": "21",
+		"journalAbbreviation": "Environ Sci Pollut Res",
+		"language": "en",
+		"page": "20363-20373",
+		"source": "Springer Link",
+		"title": "Electro-Fenton oxidation of para-aminosalicylic acid: degradation kinetics and mineralization pathway using Pt/carbon-felt and BDD/carbon-felt cells",
+		"title-short": "Electro-Fenton oxidation of para-aminosalicylic acid",
+		"URL": "https://doi.org/10.1007/s11356-017-9309-6",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Oturan",
+				"given": "Nihal"
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			},
+			{
+				"family": "Olvera-Vargas",
+				"given": "Hugo"
+			},
+			{
+				"family": "Sunil Paul",
+				"given": "Mathew M."
+			},
+			{
+				"family": "Oturan",
+				"given": "Mehmet A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/B9XH5D9R",
+		"type": "article-journal",
+		"abstract": "The presence and distribution of a few organochlorine pesticides (OCPs) in the paddy fields of the Kuttanad agroecosystem (KAE) was examined in the present study. Kuttanad forms a part of the Vembanad wetland system which is a Ramsar site of international importance in the state of Kerala. This study, to the best of our knowledge, is the first report on the occurrence of OCP residues in KAE. Pesticide residue analysis was done with gas chromatograph (GC-ECD). Twenty-one soil samples were collected for the multiresidual analysis of OCPs. Sixteen OCP residues with a notable concentration were observed from the study area. α-BHC; β-BHC; γ-BHC; δ-BHC; α-chlordane; γ-chlordane; heptachlor; 4,4-DDT; 4,4-DDE; 4,4-DDD; α-endosulfan; β-endosulfan; aldrin; dieldrin; endrin aldehyde; and endrin ketone were the residues observed. The percentage-wise occurrence of OCP residues in the soil samples analysed (total of 63 samples from 21 sites, three samples per site) exhibits the following order: Σ BHC˃ Σ chlordane ˃ Σ dieldrin ˃ Σ aldrin ˃ Σ endrin˃ Σ heptachlor = endosulfan˃ Σ DDT. All pesticides detected from KAE are in the list of priority pollutants of US Environmental Protection Agency (USEPA). The distribution pattern of OCPs in the KAE soils revealed their origin as both historical and recent application of pesticides. Health risk assessment of OCP residues on human population was also conducted. The findings indicated that the concentrations of OCPs were within the permissible limits of USEPA, thus, the human population in the study area was safe.",
+		"container-title": "Environmental Science and Pollution Research",
+		"DOI": "10.1007/s11356-016-7834-3",
+		"ISSN": "1614-7499",
+		"issue": "1",
+		"journalAbbreviation": "Environ Sci Pollut Res",
+		"language": "en",
+		"page": "969-978",
+		"source": "Springer Link",
+		"title": "Contamination from organochlorine pesticides (OCPs) in agricultural soils of Kuttanad agroecosystem in India and related potential health risk",
+		"URL": "https://doi.org/10.1007/s11356-016-7834-3",
+		"volume": "24",
+		"author": [
+			{
+				"family": "Sruthi",
+				"given": "S. N."
+			},
+			{
+				"family": "Shyleshchandran",
+				"given": "M. S."
+			},
+			{
+				"family": "Mathew",
+				"given": "Sunil Paul"
+			},
+			{
+				"family": "Ramasamy",
+				"given": "E. V."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/WYEE2CRU",
+		"type": "article-journal",
+		"abstract": "Mechanistic aspects of diphenhydramine (DPH) oxidation induced by hydroxyl (•OH) and sulfate (SO4•−) radicals have been explored in detail by pulse radiolysis technique and high resolution mass spectrometry (HRMS). The transient absorption spectrum along with HRMS analysis undoubtedly established the non-position selective hydroxylation of DPH by •OH (a; k2 = (1.08 ± 0.06) × 1010 dm3 mol−1 s−1; λmax: 335 nm) led to various transformation products (i - vii) including isomeric mono (Ia-d), di (IIa-c) and tri (VIIa-e) hydroxylated analogues. On the other hand, SO4•− (specific one electron oxidant) ultimately generates another hydroxylated adduct radical ‘c’ λmax: 330 nm, k2=(5.70 ± 0.03) × 109dm3 mol−1 s−1) which is formed as a result of preferential hydroxylation of initially formed radical cation ‘b’ at ipso position. The mechanism leading to the formation of various transformation products induced by •OH and SO4•− are thoroughly discussed. The mechanistic findings obtained from our studies (especially in the case of less investigated oxidant like SO4•−) are capable to enrich the fundamental understanding on environmentally relevant reactions initiated by •OH and SO4•−.",
+		"container-title": "ChemistrySelect",
+		"DOI": "10.1002/slct.201600103",
+		"ISSN": "2365-6549",
+		"issue": "5",
+		"language": "en",
+		"license": "© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/slct.201600103",
+		"page": "924-933",
+		"source": "Wiley Online Library",
+		"title": "Transformation Reactions of Radicals from the Oxidation of Diphenhydramine: Pulse Radiolysis and Mass Spectrometric Studies",
+		"title-short": "Transformation Reactions of Radicals from the Oxidation of Diphenhydramine",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/slct.201600103",
+		"volume": "1",
+		"author": [
+			{
+				"family": "Menachery",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Nair",
+				"given": "Sreekanth R."
+			},
+			{
+				"family": "Nair",
+				"given": "Pramod G."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/7AXHNHH8",
+		"type": "article-journal",
+		"abstract": "This study reports an energy-resolved mass spectrometric (ERMS) strategy for the characterization of position isomers derived from the reaction of hydroxyl radicals (●OH) with diphenhydramine (DPH) that are usually hard to differentiate by other methods. The isomer analogues formed by ●OH attack on the side chain of DPH are identified with the help of a specific fragment ion peak (m/z 88) in the collision-induced dissociation (CID) spectrum of the protonated molecule. In the negative ion mode, the breakdown curves of the deprotonated molecules show an order of stability (supported by density functional theory (DFT) calculations) ortho > meta > para of the positional isomers formed by the hydroxylation of the aromatic ring. The gas phase stability of the deprotonated molecules [M − H]− towards the benzylic cleavage depends mainly on the formation of intramolecular hydrogen bonds and of the mesomeric effect of the phenol hydroxyl. The [M − H]− molecules of ortho and meta isomers result a peak at m/z 183 with notably different intensities because of the presence/absence of an intramolecular hydrogen bonding between the OH group and C9 protons. The ERMS approach discussed in this report might be an effective replacement for the conventional methods that requires very costly and time-consuming separation/purification methods along with the use of multi-spectroscopic methods. Copyright © 2015 John Wiley & Sons, Ltd.",
+		"container-title": "Journal of Mass Spectrometry",
+		"DOI": "10.1002/jms.3607",
+		"ISSN": "1096-9888",
+		"issue": "7",
+		"language": "en",
+		"license": "Copyright © 2015 John Wiley & Sons, Ltd.",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jms.3607",
+		"page": "944-950",
+		"source": "Wiley Online Library",
+		"title": "Identification of position isomers by energy-resolved mass spectrometry",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jms.3607",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Menachery",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Laprévote",
+				"given": "Olivier"
+			},
+			{
+				"family": "Nguyen",
+				"given": "Thao P."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Gopinathan",
+				"given": "Pramod"
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/57RQH966",
+		"type": "article-journal",
+		"abstract": "Due to an increasing environmental pollution, a search for the cost effective treatment and disposal of the dyes from the textile effluents is getting more and more importance. Oxidation and reduction processes play important roles in the degradation treatments of the azo dyes. The latter process is more effective and in consequence its mechanism is also better understood. The mechanism of the oxidation processes, the intermediates involved in these reactions and their role in the effectiveness of the oxidative degradation of the azo dyes, viz, phenyl azo b-naphthol (PAN), Sudan I. On exposure to sunlight at 2 1/2 hours for various samples in different concentrations of PAN mixed with Fenton reagent, when the reactive intermediate reacted with the colour, the pH vs. absorbance generally showed significant degradation in between pH 5 and 6. The results were compared with the same samples on exposure to uv-light of 254 nm and irradiated at 20 minutes. The degradation occurred in samples of relatively high concentrations, viz, 10-3 and 5 × 10-4 mol· dm-3 at near neutral pH 6 whereas. Low concentration samples such as 10-4 and 5 × 10-5 mol·dm-3 showed degradation towards more acidic range of pH 2 to 4. In advanced oxidation process (AOP), generally reactive, strongly oxidizing ·OH radicals play a main role in destruction of the dye molecules. The proposed mechanisms and the rate coefficients for the reactions of ·OH intermediates with the dye molecules and with model compounds are summarized.",
+		"container-title": "Journal of Water Resource and Protection",
+		"DOI": "10.4236/jwarp.2014.614117",
+		"issue": "14",
+		"language": "en",
+		"note": "number: 14\npublisher: Scientific Research Publishing",
+		"page": "1276",
+		"source": "www.scirp.org",
+		"title": "Degradation of Dyestuff Pollutant Sudan I Using Advanced Oxidation Process",
+		"URL": "http://www.scirp.org/journal/PaperInformation.aspx?PaperID=50611&#abstract",
+		"volume": "06",
+		"author": [
+			{
+				"family": "Nair",
+				"given": "Pramod Gopinathan"
+			},
+			{
+				"family": "Vijayakumar",
+				"given": "Swathy"
+			},
+			{
+				"family": "Lisluke",
+				"given": "Teena"
+			},
+			{
+				"family": "Mathew",
+				"given": "Menacheri Sunil Paul"
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila Thankappan"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					10,
+					17
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/ASZM8P8G",
+		"type": "article-journal",
+		"abstract": "In this work, the electrochemical degradation of the dye azure B in aqueous solutions was studied by electrochemical advanced oxidation processes (EAOPs), electro-Fenton, and anodic oxidation processes, using Pt/carbon-felt and boron-doped diamond (BDD)/carbon-felt cells with H2O2 electrogeneration. The higher oxidation power of the electro-Fenton (EF) process using BDD anode was demonstrated. The oxidative degradation of azure B by the electrochemically generated hydroxyl radicals (•OH) follows a pseudo-first-order kinetics. The apparent rate constants of the oxidation of azure B by •OH were measured according to pseudo-first-order kinetic model. The absolute rate constant of azure B hydroxylation reaction was determined by competition kinetics method and found to be 1.19 × 109 M−1 s−1. It was found that the electrochemical degradation of the dye leads to the formation of aromatic by-products which are then oxidized to aliphatic carboxylic acids before their almost mineralization to CO2 and inorganic ions (sulfate, nitrate, and ammonium). The evolution of the TOC removal and time course of short-chain carboxylic acids during treatment were also investigated.",
+		"container-title": "Environmental Science and Pollution Research",
+		"DOI": "10.1007/s11356-014-2772-4",
+		"ISSN": "1614-7499",
+		"issue": "14",
+		"journalAbbreviation": "Environ Sci Pollut Res",
+		"language": "en",
+		"page": "8379-8386",
+		"source": "Springer Link",
+		"title": "Electro-oxidation of the dye azure B: kinetics, mechanism, and by-products",
+		"title-short": "Electro-oxidation of the dye azure B",
+		"URL": "https://doi.org/10.1007/s11356-014-2772-4",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Olvera-Vargas",
+				"given": "Hugo"
+			},
+			{
+				"family": "Oturan",
+				"given": "Nihal"
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "C. T."
+			},
+			{
+				"family": "Paul",
+				"given": "M. M. Sunil"
+			},
+			{
+				"family": "Sharma",
+				"given": "Virender K."
+			},
+			{
+				"family": "Oturan",
+				"given": "Mehmet A."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/R8YXM4MC",
+		"type": "article-journal",
+		"abstract": "Purpose: The hydroxyl radical (●OH)-induced oxidation reactions of isomeric hydroxy naphthoquinones (generally having anti-tumor activities) namely, lawsone and juglone, were carried out and the reaction mechanism was elucidated.Materials and methods: The degradation products from the reaction of ●OH (produced by H2O2/UV) with lawsone and juglone were analyzed using a liquid chromatography quadrupole-time-of-flight mass spectrometer (LC-Q-TOF-MS). The transient intermediate studies were investigated using picosecond pulse radiolysis technique.Results: Mono hydroxylated and dihydroxylated adducts of both lawsone and juglone were identified from the product analysis. The isomeric mono-hydroxylated adducts of lawsone were confirmed using survival yield (SY) analysis. The hydroxylated adducts of lawsone also underwent dimerization reaction. The transient spectral analysis using pulse radiolysis studies revealed the formation of hydroxycyclohexadienyl type radical of both lawsone and juglone as the initially formed intermediate.Conclusions: The ●OH-induced reactions of both lawsone and juglone result in the mono and di-hydoxylated derivatives. The demonstration of the various isomeric products using mass spectrometry is a clear proof of the addition probability of ●OH at different positions of lawsone and juglone, which is generally a difficult task using other analytical techniques.",
+		"container-title": "International Journal of Radiation Biology",
+		"DOI": "10.3109/09553002.2014.899451",
+		"ISSN": "0955-3002",
+		"issue": "6",
+		"note": "publisher: Taylor & Francis\n_eprint: https://doi.org/10.3109/09553002.2014.899451\nPMID: 24597783",
+		"page": "495-502",
+		"source": "Taylor and Francis+NEJM",
+		"title": "Oxidation reactions of hydroxy naphthoquinones: Mechanistic investigation by LC-Q-TOF-MS analysis",
+		"title-short": "Oxidation reactions of hydroxy naphthoquinones",
+		"URL": "https://doi.org/10.3109/09553002.2014.899451",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Sreekanth",
+				"given": "Radhakrishnan"
+			},
+			{
+				"family": "Menachery",
+				"given": "Sunil Paul M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Marignier",
+				"given": "Jean-Louis"
+			},
+			{
+				"family": "Belloni",
+				"given": "Jacqueline"
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "Charuvila T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					6,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/B6PU4RNW",
+		"type": "article-journal",
+		"abstract": "Oxidative destruction and mineralization of emerging organic pollutants by hydroxyl radicals (˙OH) is a well established area of research. The possibility of generating hazardous by-products in the case of ˙OH reaction demands extensive investigations on the degradation mechanism. A combination of pulse radiolysis and steady state photolysis (H2O2/UV photolysis) followed by high resolution mass spectrometric (HRMS) analysis have been employed to explicate the kinetic and mechanistic features of the destruction of theophylline, a model pharmaceutical compound and an identified pollutant, by ˙OH in the present study. The oxidative destruction of this molecule, for intermediate product studies, was initially achieved by H2O2/UV photolysis. The transient absorption spectrum corresponding to the reaction of ˙OH with theophylline at pH 6, primarily caused by the generation of (T8-OH)˙, was characterised by an absorption band at 330 nm (k2 = (8.22 ± 0.03) × 109 dm3 mol−1 s−1). A significantly different spectrum (λmax: 340 nm) was observed at highly alkaline pH (10.2) due to the deprotonation of this radical (pKa ∼ 10.0). Specific one electron oxidants such as sulphate radical anions (SO4˙−) and azide radicals (N3˙) produce the deprotonated form (T(−H)˙) of the radical cation (T˙+) of theophylline (pKa 3.1) with k2 values of (7.51 ± 0.04) × 109 dm3 mol−1 s−1 and (7.61 ± 0.02) × 109 dm3 mol−1 s−1 respectively. Conversely, oxide radicals (O˙−) react with theophylline via a hydrogen abstraction protocol with a rather slow k2 value of (1.95 ± 0.02) × 109 dm3 mol−1 s−1. The transient spectral studies were complemented by the end product profile acquired by HRMS analysis. Various transformation products of theophylline induced by ˙OH were identified by this technique which include derivatives of uric acids (i, iv & v) and xanthines (ii, iii & vi). Further breakdown of the early formed product due to ˙OH attack leads to ring opened compounds (ix–xiv). The kinetic and mechanistic data furnished in the present study serve as a basic frame work for the construction of ˙OH induced water treatment systems as well as to understand the biological implications of compounds of this kind.",
+		"container-title": "Organic & Biomolecular Chemistry",
+		"DOI": "10.1039/C4OB00102H",
+		"ISSN": "1477-0539",
+		"issue": "30",
+		"journalAbbreviation": "Org. Biomol. Chem.",
+		"language": "en",
+		"note": "publisher: The Royal Society of Chemistry",
+		"page": "5611-5620",
+		"source": "pubs.rsc.org",
+		"title": "Hydroxyl radical induced oxidation of theophylline in water: a kinetic and mechanistic study",
+		"title-short": "Hydroxyl radical induced oxidation of theophylline in water",
+		"URL": "https://pubs.rsc.org/en/content/articlelanding/2014/ob/c4ob00102h",
+		"volume": "12",
+		"author": [
+			{
+				"family": "Paul",
+				"given": "M. M. Sunil"
+			},
+			{
+				"family": "Aravind",
+				"given": "U. K."
+			},
+			{
+				"family": "Pramod",
+				"given": "G."
+			},
+			{
+				"family": "Saha",
+				"given": "A."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "C. T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2014",
+					7,
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/IJ5JLIR8",
+		"type": "article-journal",
+		"abstract": "The transients formed during the reactions of oxidizing radicals with 1-naphthol (1) and 2-naphthol (2) in aqueous medium have been investigated by pulse radiolysis with detection by absorption spectroscopy and density functional theory (DFT) calculations. The transient spectra formed on hydroxyl radical (•OH) reactions of 1 and 2 exhibited λmax at 340 and 350 nm at neutral pH. The rate constants of the •OH reactions of 1 (2) were determined from build-up kinetics at λmax of the transients as (9.63 ± 0.04) × 109 M–1 s–1 ((7.31 ± 0.11) × 109 M–1 s–1). DFT calculations using the B3LYP/6-31+G(d,p) method have been performed to locate favorable reaction sites in both 1 and 2 and identification of the pertinent transients responsible for experimental results. Calculations demonstrated that •OH additions can occur mostly at C1 and C4 positions of 1, and at C1 and C8 positions of 2. Among several isomeric •OH adducts possible, the C1 adduct was found to be energetically most stable both in 1 and 2. Time-dependent density functional theory (TDDFT) calculations in the solution phase has shown that the experimental spectrum of 1 was mainly attributed by 1a4 (kinetically driven •OH-adduct) formed via the addition of •OH at the C4 position which was 0.73 kcal/mol endergonic compared to 1a1 (thermodynamic •OH adduct), whereas 2a1 (thermodynamic/kinetic •OH-adduct) was mainly responsible for the experimental spectrum of 2. Naphthoxyl radicals of 1 and 2 have been predicted as the transient formed in the reaction of •OH at basic pH. In addition, the same transient species resulted from the reactions of oxide radical ion (O•–) at pH ≈ 13 and azide radical (N3•) at pH 7 with 1 and 2. Further, UV photolysis of aqueous solutions of 1 and 2 containing H2O2 (UV/H2O2) were used for the •OH induced oxidation product formations up on 60% degradations of 1 and 2; profiling of the oxidation products were performed by using an ultraperformance liquid chromatography quadrupole time-of-flight mass spectrometry (UPLC–Q-TOF-MS) method. According to the UPLC–Q-TOF-MS analyses, the preliminary oxidation products are limited to dihydroxy naphthalenes and naphthoquinones with N2-saturation, while some additional products (mainly isomeric monohydroxy-naphthoquinones) have been observed in the degradations of 1 and 2 in the presence of O2. We postulate that dihydroxy naphthalenes are derived explicitly from the most favorable •OH-adducts speculated (preference is in terms of the kinetic/thermodynamic dominancy of transients) by using theoretical calculations which in turn substantiate the proposed reaction mechanisms. The observations of •OH-adducts for an aromatic phenol (herein for both 1 and 2 at pH 7) rather than phenoxyl type radical in the pulse radiolysis experiments is a distinct and unique illustration. The present study provides a meaningful basis for the early stages associated with the •OH initiated advanced oxidation processes of 1- and 2-naphthols.",
+		"container-title": "The Journal of Physical Chemistry A",
+		"DOI": "10.1021/jp4081355",
+		"ISSN": "1089-5639",
+		"issue": "44",
+		"journalAbbreviation": "J. Phys. Chem. A",
+		"note": "publisher: American Chemical Society",
+		"page": "11261-11270",
+		"source": "ACS Publications",
+		"title": "Oxidation Reactions of 1- and 2-Naphthols: An Experimental and Theoretical Study",
+		"title-short": "Oxidation Reactions of 1- and 2-Naphthols",
+		"URL": "https://doi.org/10.1021/jp4081355",
+		"volume": "117",
+		"author": [
+			{
+				"family": "Sreekanth",
+				"given": "R."
+			},
+			{
+				"family": "Prasanthkumar",
+				"given": "Kavanal P."
+			},
+			{
+				"family": "Sunil Paul",
+				"given": "M. M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "C. T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					11,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/SxVMVijK/items/NP9Z8TDH",
+		"type": "article-journal",
+		"abstract": "Oxidative degradation of fensulfothion, a model organophosphorus compound, has been investigated by pulse radiolysis and H2O2/UV photolysis. A nearly complete transformation of fensulfothion was observed within 4min of irradiation. Very little Total Organic Carbon (TOC) reduction was obtained at this time scale. When the product studies at this stage were conducted using LC–MS/MS analyses, nearly 20 transformation products were obtained. The entire products were identified as from the reaction of OH with fensulfothion or with some of its initially transformed products. Nearly 80% reduction in TOC was observed when photolysis was conducted using higher concentrations of H2O2 at longer time scale. A reaction rate constant (bimolecular) of 1.10×1010dm3mol−1s−1 was obtained for the reaction of OH with fensulfothion using pulse radiolysis technique. The transient absorption spectrum obtained from the reaction of OH has a maximum at 280nm and a weak, broad maximum around 500nm along with a small shoulder around 340nm. The intermediate spectrum is assigned to the radical cation of fensulfothion (3) and the hydroxyl radical adducts (1 and 2). This assignment is supported by the intermediate spectrum (λmax at 280nm) from the reaction of sulfate radical anion (SO4-) (k2=3.20×109dm3mol−1s−1) which is a one electron oxidant. It is thus demonstrated that the combination of both pulse radiolysis and the product estimation using LC–MS/MS is ideal in probing the complete mechanism which is very important in the mineralization reactions using Advanced Oxidation Processes.",
+		"container-title": "Chemosphere",
+		"DOI": "10.1016/j.chemosphere.2012.11.033",
+		"ISSN": "0045-6535",
+		"issue": "3",
+		"journalAbbreviation": "Chemosphere",
+		"page": "295-301",
+		"source": "ScienceDirect",
+		"title": "Oxidative degradation of fensulfothion by hydroxyl radical in aqueous medium",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S0045653512014385",
+		"volume": "91",
+		"author": [
+			{
+				"family": "Sunil Paul",
+				"given": "M. M."
+			},
+			{
+				"family": "Aravind",
+				"given": "Usha K."
+			},
+			{
+				"family": "Pramod",
+				"given": "G."
+			},
+			{
+				"family": "Aravindakumar",
+				"given": "C. T."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					8,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					4,
+					1
+				]
+			]
+		}
+	}
+]

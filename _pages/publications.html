@@ -1,0 +1,28 @@
+---
+layout: default
+title: Publications
+include_in_header: true
+---
+
+<h1>{{page.title}}</h1>
+
+
+<div class="panel-group" id="accordion">
+  <div class="panel panel-default">
+    <ol reversed> {% for publi in site.data.publications %} <div class="panel-heading">
+        <li>
+          <a data-toggle="collapse" data-parent="#accordion" href="#collapse{{forloop.index}}" style="color: inherit;">
+            <b>
+              <a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}" role="button" target="blank">{{ publi.title }}</a>
+            </b>",
+            <!-- container -->
+            <b>
+              <i>{{ publi.container-title }}</i>
+            </b>
+            <!-- issued date --> ({{ publi.issued.date-parts | jsonify | slice: 3,4 }}),
+            <!-- DOI --> {% if publi.DOI %} <a href="https://doi.org/{{publi.DOI}}">DOI:{{publi.DOI}}</a> {% endif %}
+          </a>
+        </li>
+      </div> {% endfor %} </ol>
+  </div>
+</div>
