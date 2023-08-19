@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum vitae
+title: CV
 include_in_header: true
 ---
 
@@ -8,7 +8,7 @@ include_in_header: true
     tab1 { padding-left: 4em; }
 </style>
 
-<h1>{{page.title}}</h1>
+<h1>Curriculum vitae</h1>
 
 <p style="text-align: justify;"><tab1></tab1></p>
 
