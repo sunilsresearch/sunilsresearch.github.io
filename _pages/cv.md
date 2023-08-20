@@ -14,17 +14,17 @@ include_in_header: true
 
 <h2>Education</h2>
 
-- <b>Ph. D. in Chemistry</b> (2011 – 2016), Mahatma Gandhi University, Kottayam, India.
-- <b>M. Sc. in Chemistry</b> (2006 – 2008), Mahatma Gandhi University, Kottayam, India.
-- <b>B. Sc. in Chemistry</b> (2003 – 2006), Mahatma Gandhi University, Kottayam, India.
+- <b>Ph. D. in Chemistry</b> (2011 – 2016), <a href="https://www.mgu.ac.in/" target="_blank">Mahatma Gandhi University</a>, Kottayam, India.
+- <b>M. Sc. in Chemistry</b> (2006 – 2008), <a href="https://www.mgu.ac.in/" target="_blank">Mahatma Gandhi University</a>, Kottayam, India.
+- <b>B. Sc. in Chemistry</b> (2003 – 2006), <a href="https://www.mgu.ac.in/" target="_blank">Mahatma Gandhi University</a>, Kottayam, India.
 
 
 <h2>Professional Experience</h2>
 
-- <b>Scientific Assistant</b> (Aug. 2023 onwards), German Environment Agency (UBA), Berlin, Germany)
-- <b>Postdoctoral Researcher</b> (Oct 2019 – June 2023), Czech University of Life Sciences Prague, Czech Republic
-- <b>Postdoctoral Researcher</b> (Sept 2015 – June 2019), Pohang University of Science and Technology (POSTECH), Republic of Korea
-- <b>Visiting Student</b> (May 2014 - April 2015), Pohang University of Science and Technology (POSTECH), Republic of Korea)
+- <b>Scientific Assistant</b> (Aug. 2023 onwards), <a href="https://www.umweltbundesamt.de/en" target="_blank">German Environment Agency (UBA)</a>, Berlin, Germany
+- <b>Postdoctoral Researcher</b> (Oct 2019 – June 2023), <a href="https://www.czu.cz/en" target="_blank">Czech University of Life Sciences Prague (CZU)</a>, Czech Republic
+- <b>Postdoctoral Researcher</b> (Sept 2015 – June 2019), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea
+- <b>Visiting Student</b> (May 2014 - April 2015), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea)
 - <b>Analyst (Sept 2008 - Oct 2009)</b>, Spices Board, Govt. of India
 
 <h2>Summary of Academic Achievements (Selected)</h2>
