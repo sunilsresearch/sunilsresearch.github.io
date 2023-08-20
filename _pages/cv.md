@@ -25,7 +25,7 @@ include_in_header: true
 - <b>Postdoctoral Researcher</b> (Oct 2019 – June 2023), <a href="https://www.czu.cz/en" target="_blank">Czech University of Life Sciences Prague (CZU)</a>, Czech Republic
 - <b>Postdoctoral Researcher</b> (Sept 2015 – June 2019), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea
 - <b>Visiting Student</b> (May 2014 - April 2015), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea)
-- <b>Analyst (Sept 2008 - Oct 2009)</b>, Spices Board, Govt. of India
+- <b>Analyst (Sept 2008 - Oct 2009)</b>, <a href="http://www.indianspices.com/" target="_blank">Spices Board</a>, Govt. of India
 
 <h2>Summary of Academic Achievements (Selected)</h2>
 
