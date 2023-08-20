@@ -22,10 +22,10 @@ include_in_header: true
 <h2>Professional Experience</h2>
 
 - <b>Scientific Assistant</b> (Aug. 2023 onwards), <a href="https://www.umweltbundesamt.de/en" target="_blank">German Environment Agency (UBA)</a>, Berlin, Germany
-- <b>Postdoctoral Researcher</b> (Oct 2019 – June 2023), <a href="https://www.czu.cz/en" target="_blank">Czech University of Life Sciences Prague (CZU)</a>, Czech Republic
-- <b>Postdoctoral Researcher</b> (Sept 2015 – June 2019), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea
+- <b>Postdoctoral Researcher</b> (Oct. 2019 – June 2023), <a href="https://www.czu.cz/en" target="_blank">Czech University of Life Sciences Prague (CZU)</a>, Czech Republic
+- <b>Postdoctoral Researcher</b> (Sept. 2015 – June 2019), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea
 - <b>Visiting Student</b> (May 2014 - April 2015), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea)
-- <b>Analyst (Sept 2008 - Oct 2009)</b>, <a href="http://www.indianspices.com/" target="_blank">Spices Board</a>, Govt. of India
+- <b>Analyst (Sept. 2008 - Oct. 2009)</b>, <a href="http://www.indianspices.com/" target="_blank">Spices Board</a>, Govt. of India
 
 <h2>Summary of Academic Achievements (Selected)</h2>
 
