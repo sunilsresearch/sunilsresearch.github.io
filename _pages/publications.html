@@ -13,7 +13,7 @@ include_in_header: true
          
             <b>
               <!-- authors --> {% assign authors = "" | split:"/" %} {% for author in publi.author %} {% assign authors = authors | push: author.authorName %} {% endfor %} {{ authors | array_to_sentence_string }}, <a class="btn btn-outline-primary" href="{{publi.DOI}}" role="button" target="_blank">{{ publi.title }}</a>
-            </b>"
+            </b>-
             <!-- container -->
             <b>
               <i>{{ publi.container-title }}</i>
