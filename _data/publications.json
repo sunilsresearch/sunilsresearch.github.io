@@ -844,6 +844,7 @@
 		}
 	},
 	{
+		"container-title": "International Journal of Radiation Biology",
 		"DOI": "https://doi.org/10.3109/09553002.2014.899451",
 		"ISSN": "0955-3002",
 		"issue": "6",
@@ -856,7 +857,7 @@
 		"volume": "90",
 		"author": [
 			{
-				"authorName": "Sreekanth Radhakrishnan"
+				"authorName": "Sreekanth R. Nair"
 			},
 			{
 				"authorName": "Sunil Paul M. Menacherry"
