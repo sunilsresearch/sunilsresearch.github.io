@@ -21,7 +21,8 @@ include_in_header: true
 
 <h2>Professional Experience</h2>
 
-- <b>Scientific Assistant</b> (Aug. 2023 onwards), <a href="https://www.umweltbundesamt.de/en" target="_blank">German Environment Agency (UBA)</a>, Berlin, Germany
+- <b>Scientist</b> (May 2024 onwards), <a href="https://www.umweltbundesamt.de/en" target="_blank">German Environment Agency (UBA)</a>, Berlin, Germany
+- <b>Scientific Assistant</b> (Aug. 2023 - Apr. 2024), <a href="https://www.umweltbundesamt.de/en" target="_blank">German Environment Agency (UBA)</a>, Berlin, Germany
 - <b>Postdoctoral Researcher</b> (Oct. 2019 – June 2023), <a href="https://www.czu.cz/en" target="_blank">Czech University of Life Sciences Prague (CZU)</a>, Czech Republic
 - <b>Postdoctoral Researcher</b> (Sept. 2015 – June 2019), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea
 - <b>Visiting Student</b> (May 2014 - April 2015), <a href="https://www.postech.ac.kr/eng/" target="_blank">Pohang University of Science and Technology (POSTECH)</a>, Republic of Korea)
@@ -31,7 +32,7 @@ include_in_header: true
 
 - Research articles published in SCI journals: <b>22</b> (First Author: <b>11</b>, Corresponding Author: <b>4</b>)
 - Review articles published in SCI journals: <b>2</b>, Book chapters: <b>2</b>
-- Google Scholar citation > <b>410</b>, H-index: <b>12</b> (last updated on Aug. 01, 2023)
+- Google Scholar citation > <b>515</b>, H-index: <b>13</b> (last updated on Aug. 15, 2024)
 - <b>Guest Editor</b> of a special issue “<a href="https://www.mdpi.com/journal/ChemEngineering/special_issues/VB2R1T3H03" target="_blank">Novel Methods for the Remediation of Emerging Organic Pollutants from the Environment, Vol. II</a>” in ChemEngineering (ISSN 2305-7084); 2023
 - <b>Co-Guest Editor</b> of a special issue “<a href="https://www.mdpi.com/journal/atmosphere/special_issues/Air_Wastewater" target="_blank">Air Pollution from Wastewater Management</a>” in Atmosphere (ISSN 2073-4433); 2022
 - <b>Guest Editor</b> of a special issue “<a href="https://www.mdpi.com/journal/ChemEngineering/special_issues/remediation_organic_pollutants" target="_blank">Novel Methods for the Remediation of Emerging Organic Pollutants from the Environment</a>” in ChemEngineering (ISSN 2305-7084); 2022
