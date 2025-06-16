@@ -1,5 +1,93 @@
 [
 	{
+		"container-title": "ACS ES&T Water",
+		"DOI": "https://doi.org/10.1021/acsestwater.5c00094",
+		"ISSN": "2690-0637",
+		"page": "",
+		"source": "Springer Link",
+		"title": "Effect of Hydrophobic Cross-Linkers in Strong Base Gel-Type Resins on the Adsorption Kinetics and Capacity for Perfluoroalkyl Substances",
+		"title-short": "",
+		"URL": "https://doi.org/10.1021/acsestwater.5c00094",
+		"volume": "263",
+		"author": [  
+			{
+				"authorName": "Florian Junge"
+			},
+			{
+				"authorName": "Fiona E. Rückbeil"
+			},
+			{
+				"authorName": "Regina Gnirss"
+			},
+			{
+				"authorName": "Rainer Haag"
+			},
+			{
+				"authorName": "Alejandro Lorente"
+			},
+			{
+				"authorName": "Fabio Lorenz"
+			},
+			{
+				"authorName": "Sunil Paul M. Menacherry"
+			},
+			{
+				"authorName": "Aki S. Ruhl"
+			},
+			{
+				"authorName": "Alexander Sperlich"
+			},
+			{
+				"authorName": "Ana Zidar"
+			},
+			{
+				"authorName": "Olaf Wagner"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"container-title": "Reviews of Environmental Contamination and Toxicology",
+		"DOI": "https://doi.org/10.1007/s44169-025-00080-w",
+		"ISSN": "2197-6554",
+		"page": "",
+		"source": "Springer Link",
+		"title": "Microplastic Contamination of the Aquatic Environment in the Indian Scenario: A Review",
+		"title-short": "",
+		"URL": "https://doi.org/10.1007/s44169-025-00080-w",
+		"volume": "263",
+		"author": [          
+			{
+				"authorName": "M. S. Shyleshchandran"
+			},
+			{
+				"authorName": "Ajeesha A. Asiz"
+			},
+			{
+				"authorName": "P. S. Haritha"
+			},
+			{
+				"authorName": "S. N. Sruthi"
+			},
+			{
+				"authorName": "Sunil Paul M. Menacherry"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
 		"container-title": "Nova Science Publishers (Book Chapter)",
 		"DOI": "https://novapublishers.com/shop/advances-in-environmental-research-volume-96/",
 		"ISSN": "979-8-88697-962-6",
