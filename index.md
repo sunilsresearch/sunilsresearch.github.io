@@ -18,7 +18,7 @@ include_in_header: true
 
 # Research Interests
 
-* Structural elucidation of metabolites/degradation products of organic pollutants.
-* Characterization of isomeric compounds by Energy-Resolved Mass Spectrometry.
-* Trace level detection of organic pollutants by tandem Mass Spectrometry.
-* Advanced Oxidation Processes (AOPs) for the degradation of organic pollutants from water.
+* Trace-level detection of organic pollutants via tandem mass spectrometry
+* Structural elucidation of metabolites and degradation products of organic pollutants
+* Characterization of isomeric compounds using energy-resolved mass spectrometry
+* Application of advanced oxidation processes (AOPs) for the removal of organic pollutants from water
