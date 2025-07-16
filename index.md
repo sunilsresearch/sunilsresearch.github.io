@@ -14,6 +14,8 @@ include_in_header: true
 
 <p style="text-align: justify;"><tab1><tab1>Feel free to explore <a href="{{ site.github.url }}/news/" target="_self">this</a> site for updates on my latest work—or connect with me through one of the profiles listed below.</tab1></tab1></p>
 
+<p style="text-align: center;"><a href="https://scholar.google.com/citations?user=RNbYHqgAAAAJ"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="" width="50" height="50"></a><tab1></tab1><a href="http://www.researchgate.net/profile/Sunil_M2/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png" alt="" width="50" height="50"></a><tab1></tab1><a href="https://www.linkedin.com/in/sunilpaulmathew/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="" width="50" height="50"></a><tab1></tab1><a href="mailto:sunil.kde@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="" width="50" height="50"></a></p>
+
 <hr>
 
 # Research Interests
