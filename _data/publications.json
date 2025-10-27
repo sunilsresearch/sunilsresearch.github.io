@@ -1,5 +1,78 @@
 [
 	{
+		"container-title": "Chemical Engineering Journal Advances",
+		"DOI": "https://doi.org/10.1016/j.ceja.2025.100862",
+		"ISSN": "2666-8211",
+		"page": "",
+		"source": "ScienceDirect",
+		"title": "Direct oxidation of organic micropollutants by persulfate and hydrogen peroxide: A potentially misleading contribution in advanced oxidation processes",
+		"title-short": "",
+		"URL": "https://www.sciencedirect.com/science/article/pii/S2666821125001590",
+		"volume": "24",
+		"author": [
+			{
+				"authorName": "Ehsan Ranjbar"
+			},
+			{
+				"authorName": "Sunil Paul M. Menacherry"
+			},
+			{
+				"authorName": "Junchao Pang"
+			},
+			{
+				"authorName": "Aki S. Ruhl"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
+		"container-title": "Earth Systems and Environment",
+		"DOI": "https://doi.org/10.1007/s41748-025-00746-4",
+		"ISSN": "2509-9434",
+		"page": "",
+		"source": "Springer Link",
+		"title": "Warming Landscapes and Urban Imprints: A 24-Year Study of Land and Climate Change in Kollam, Southwest India",
+		"title-short": "",
+		"URL": "https://link.springer.com/article/10.1007/s41748-025-00746-4",
+		"volume": "",
+		"author": [  
+			{
+				"authorName": "Ajeesha A. Asiz"
+			},
+			{
+				"authorName": "Haritha P. S"
+			},
+			{
+				"authorName": "Deepak Krishna"
+			},
+			{
+				"authorName": "Sunil Paul M. Menacherry"
+			},
+			{
+				"authorName": "Pratheesh C. Mammen"
+			},
+			{
+				"authorName": "Sruthi S. Nair"
+			},
+			{
+				"authorName": "M. S. Shyleshchandran"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025"
+				]
+			]
+		}
+	},
+	{
 		"container-title": "ACS ES&T Water",
 		"DOI": "https://doi.org/10.1021/acsestwater.5c00094",
 		"ISSN": "2690-0637",

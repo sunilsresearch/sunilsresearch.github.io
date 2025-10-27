@@ -30,9 +30,9 @@ include_in_header: true
 
 <h2>Summary of Academic Achievements (Selected)</h2>
 
-- Research articles published in SCI journals: <b>23</b> (First Author: <b>11</b>, Corresponding Author: <b>4</b>)
+- Research articles published in SCI journals: <b>25</b> (First Author: <b>11</b>, Corresponding Author: <b>4</b>)
 - Review articles published in SCI journals: <b>3</b>, Book chapters: <b>2</b>
-- Google Scholar citation > <b>595</b>, H-index: <b>14</b> (last updated on June 16, 2025)
+- Google Scholar citation > <b>620</b>, H-index: <b>14</b> (last updated on Oct. 28, 2025)
 - <b>Guest Editor</b> of a special issue “<a href="https://www.mdpi.com/journal/ChemEngineering/special_issues/VB2R1T3H03" target="_blank">Novel Methods for the Remediation of Emerging Organic Pollutants from the Environment, Vol. II</a>” in ChemEngineering (ISSN 2305-7084); 2023
 - <b>Co-Guest Editor</b> of a special issue “<a href="https://www.mdpi.com/journal/atmosphere/special_issues/Air_Wastewater" target="_blank">Air Pollution from Wastewater Management</a>” in Atmosphere (ISSN 2073-4433); 2022
 - <b>Guest Editor</b> of a special issue “<a href="https://www.mdpi.com/journal/ChemEngineering/special_issues/remediation_organic_pollutants" target="_blank">Novel Methods for the Remediation of Emerging Organic Pollutants from the Environment</a>” in ChemEngineering (ISSN 2305-7084); 2022
